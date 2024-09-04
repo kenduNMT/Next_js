@@ -1,40 +1,40 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Đây là dự án [Next.js](https://nextjs.org/) được khởi động bằng [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## Bắt đầu
 
-First, run the development server:
+Đầu tiên, hãy chạy máy chủ phát triển:
 
 ```bash
 npm run dev
-# or
+# hoặc
 yarn dev
-# or
+# hoặc
 pnpm dev
-# or
+# hoặc
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Mở [http://localhost:3000](http://localhost:3000) bằng trình duyệt của bạn để xem kết quả.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+Bạn có thể bắt đầu chỉnh sửa trang bằng cách sửa đổi `pages/index.tsx`. Trang sẽ tự động cập nhật khi bạn chỉnh sửa tệp.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+Có thể truy cập [API route](https://nextjs.org/docs/api-routes/introduction) trên [http://localhost:3000/api/hello](http://localhost:3000/api/hello). Điểm cuối này có thể được chỉnh sửa trong `pages/api/hello.ts`.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+Thư mục `pages/api` được ánh xạ tới `/api/*`. Các tệp trong thư mục này được coi là [API route](https://nextjs.org/docs/api-routes/introduction) thay vì các trang React.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Dự án này sử dụng [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) để tự động tối ưu hóa và tải Inter, một Google Font tùy chỉnh.
 
-## Learn More
+## Tìm hiểu thêm
 
-To learn more about Next.js, take a look at the following resources:
+Để tìm hiểu thêm về Next.js, hãy xem các tài nguyên sau:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [Tài liệu Next.js](https://nextjs.org/docs) - tìm hiểu về các tính năng và API của Next.js.
+- [Tìm hiểu Next.js](https://nextjs.org/learn) - hướng dẫn tương tác về Next.js.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Bạn có thể xem [kho lưu trữ Next.js GitHub](https://github.com/vercel/next.js/) - chúng tôi hoan nghênh phản hồi và đóng góp của bạn!
 
-## Deploy on Vercel
+## Triển khai trên Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Cách dễ nhất để triển khai ứng dụng Next.js của bạn là sử dụng [Nền tảng Vercel](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) từ những người tạo ra Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Hãy xem [tài liệu triển khai Next.js](https://nextjs.org/docs/deployment) của chúng tôi để biết thêm chi tiết.
